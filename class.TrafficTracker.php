@@ -1,4 +1,5 @@
 <?php
+
 /* ==========================================================
  * class.TrafficTracker.php v1.7
  * https://github.com/adamdehaven/TrafficTracker
